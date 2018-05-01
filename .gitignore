@@ -57,3 +57,8 @@ typings/
 # dotenv environment variables file
 .env
 
+# hide material-design-icons source files
+material-design-icons-master/
+material-design-icons-master.zip
+
+.DS_Store

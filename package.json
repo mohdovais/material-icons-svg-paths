@@ -1,0 +1,16 @@
+{
+  "name": "material-icons-svg-paths",
+  "version": "1.0.0",
+  "description": "ES6 Material Design Icons paths 24px",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Mohd Ovais",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "svgo": "^1.0.5"
+  }
+}
